@@ -1,3 +1,2 @@
-- [🏠 Home](/)
-- [🚀 Getting Started](getting-started.md)
-- [ℹ️ About](about.md)
+- [Home](/)
+- [GitHub](https://github.com/farrelsp/test-docsify)
