@@ -1,3 +1,4 @@
 - [🏠 Home](/)
 - [🚀 Getting Started](getting-started.md)
 - [ℹ️ About](about.md)
+- [Farrel Satya](farrel.md)
